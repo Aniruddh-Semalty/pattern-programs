@@ -1,3 +1,10 @@
+/*
+54321
+4321
+321
+21
+1
+*/
 #include<iostream>
 using namespace std;
 int main()
